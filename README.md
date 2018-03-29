@@ -2474,7 +2474,7 @@
 #### Panel 1
 |JP|EN|
 |---|---|
-|ふぶき姫です‼︎|
+|ふぶき姫です‼︎|Fubuki-hime!!
 |召喚、私の友だちでてこい、ふぶきひめ‼︎|Summoning! Come on out my friend, Fubuki-hime!!
 #### Panel 3
 |JP|EN|

@@ -910,6 +910,7 @@
  
 ## 0046.jpg
 ![0046.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0046.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |本当に不気味ね、”アレ”…。なんなのかしら…。|"That" thing is really weird, whatever "that" is...
@@ -942,6 +943,7 @@
  
 ## 0048.jpg
 ![0048.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0048.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |う…。|uu....
@@ -1039,6 +1041,8 @@
 |---|---|
 |ドン|DON! (sfx: pounding noise)
 #### Panel 2
+|JP|EN|
+|---|---|
 |へへ♪|Heh heh♪
 
 ## 0053.jpg
@@ -1072,7 +1076,6 @@
 |JP|EN|
 |---|---|
 |ズドドド|zudodo (sfx: charging)
- 
 |じゃねぇー⁉|Or not!?
  
 #### Panel 6
@@ -1140,7 +1143,6 @@
 |JP|EN|
 |---|---|
 |なあなあ、オレたちと”契約”しないか？|Hey hey, wanna form a "contract" with us?
- 
 |いぇーい|YAY!
  
 #### Panel 4
@@ -1578,8 +1580,10 @@
 |JP|EN|
 |---|---|
 |だいじょうぶ⁉︎|Are you okay!?
+
 ## 0075.jpg
 ![0075.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0075.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |ぐるる…‼︎|GURURU...!!
@@ -2281,6 +2285,7 @@
 
 ## 0102.jpg
 ![0102.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0102.jpg)
+#### Panel 2
 |JP|EN|
 |---|---|
 |ザッ|(sfx:fwuush)

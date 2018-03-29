@@ -192,6 +192,8 @@
 |カサ　カサ|(sfx：rustle rustle)
 |ワー|(sfx: cheer)
 #### Panel 7
+|JP|EN|
+|---|---|
 |ハッ‼︎|Oh!!
  
 ## 0014.jpg
@@ -1169,6 +1171,7 @@
  
 ## 0057.jpg
 ![0057.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0057.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |オマエの体にオレらを入れる。|You need to put us in your body.

@@ -930,8 +930,8 @@
 |コソコソ|(sfx: sneak sneak)
 |あ、よかった。人いた|Oh good. There's someone here.
 
-## 047.jpg
-![047.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/047.jpg)
+## 0047.jpg
+![0047.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0047.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|

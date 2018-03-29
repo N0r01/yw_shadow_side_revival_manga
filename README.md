@@ -2450,7 +2450,7 @@
 |---|---|
 |なら、自分がそうなったき、どうしてほしい？|Then what would you have us do if you turned into one of those?
 |優しく見守ってほしいか？|Do you want us to just kindly look after them?
-|ぶっとばされてでも止めてほしいか？|Do you want us to stop even if they kill will all of us?
+|ぶっとばされてでも止めてほしいか？|Do you want us to stop even if they will kill all of us?
 #### Panel 5
 |JP|EN|
 |---|---|
@@ -2527,6 +2527,7 @@
 #### Panel 4
 |JP|EN|
 |---|---|
+|パキーン|(sfx:clink/pakiinn)
 |凍った‼︎|They're frozen!!
 #### Panel 5
 |JP|EN|
@@ -2558,7 +2559,7 @@
 #### Panel 6
 |JP|EN|
 |---|---|
-|ガチーン|(sfx: frozen)
+|ガチーン|(sfx:clink/pakiinn)
 |スゴイ、みんな凍らせた…。|Awesome, they're all frozen...
 
 ## 0118.jpg

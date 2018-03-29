@@ -3204,8 +3204,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 ![0144.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0144.jpg)
 ### (this page has no dialog)
 
-## 0146.jpg
-![0146.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0146.jpg)
+## 0145.jpg
+![0145.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0145.jpg)
 #### Rightmost Panel, Subpanel 1
 |JP|EN|
 |---|---|

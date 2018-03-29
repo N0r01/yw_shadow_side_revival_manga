@@ -21,6 +21,7 @@
 
 ## 0004.jpg
 ![0004.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0004.jpg)
+
 |JP|EN|
 |---|---|
 |映画　妖怪ウォッチ　シャドウサイド　鬼王の復活|Movie Yo-kai Watch Shadow Side: Revival of the Demon King

@@ -4132,6 +4132,7 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 
 ## 0189.jpg
 ![0189.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0189.jpg)
+
 |JP|EN|
 |---|---|
 |おかえり、ケータくん。|Welcome home, Keita.

@@ -1,7 +1,7 @@
-# Yo-kai Watch, Shadow Side, Revival of the Demon King
-See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2559046ad
+# Yo-kai Watch: Shadow Side, Revival of the Demon King
 
-## 03.png
+## 0003.jpg
+![0003.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0003.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -18,8 +18,15 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |JP|EN|
 |---|---|
 |そして、時は流れー。|And then, time has passed.
+
+## 0004.jpg
+![0004.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0004.jpg)
+
+## 0005.jpg
+![0005.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0005.jpg)
  
-## 06.png
+## 0006.jpg
+![0006.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0006.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -29,7 +36,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ピコーン|(sfx: ping; text message notification)
 
-## 07.png
+## 0007.jpg
+![0007.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0007.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -50,7 +58,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ポイント①|Key point 1
 |彗星「Y」|Comet "Y"
  
-## 08.png
+## 0008.jpg
+![0008.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0008.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -61,7 +70,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |なお、この数日のー。|Furthermore, in the next few days...
  
-## 09.png
+## 0009.jpg
+![0009.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0009.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -82,7 +92,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |つづいて、お天気ですー。|Now continuing with the weather...
 |ピッ|(sfx: beep, tv turning off)
  
-## 0010.png
+## 0010.jpg
+![0010.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0010.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -106,7 +117,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |家事が大変そうだったからお母さんのお手伝いしてたら遅刻しそうー‼︎|It's because I helped mom with housework that I'm late now!!
 | なによ、その恩着せがましくもあり、自分がいい子でもありな感じのセリフ…。|What's with that condescending good girl act...
  
-## 0011.png
+## 0011.jpg
+![0011.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0011.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -126,7 +138,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |だれか警察ー‼︎|Someone call the police!!
 |いや、消防だろ‼︎|Don't you mean the firefighters!?
  
-## 0012.png
+## 0012.jpg
+![0012.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0012.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -139,7 +152,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |え？|Huh?
  
-## 0013.png
+## 0013.jpg
+![0013.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0013.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -175,7 +189,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 #### Panel 7
 |ハッ‼︎|Oh!!
  
-## 0014.png
+## 0014.jpg
+![0014.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0014.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -194,7 +209,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ホント　ホント|Really,  really..
 |人が苦しむ姿が見れるところだったのに…。|But I wanted to see people suffer...
  
-## 0015.png
+## 0015.jpg
+![0015.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0015.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -219,7 +235,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |お父さん、お母さん…。|Father, Mother...
  
-## 0016.png
+## 0016.jpg
+![0016.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0016.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -230,7 +247,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |だれかに手をつかまれて…。|Somebody grabbed my hand...
  
-## 0017.png
+## 0017.jpg
+![0017.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0017.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -248,7 +266,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ん？|Huh? 
 |ア。|Ah.
  
-## 0018.png
+## 0018.jpg
+![0018.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0018.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -276,7 +295,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |また学校でねー♪|Hello again, school♪
 |人でなし‼︎　薄情者ー‼︎|It's not a person, you clod!!
  
-## 0019.png
+## 0019.jpg
+![0019.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0019.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -298,7 +318,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ピタ|(sfx: stops)
  
-## 0020.png
+## 0020.jpg
+![0020.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0020.jpg)
 #### Panel 3
 |JP|EN|
 |---|---|
@@ -314,13 +335,15 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |アレ…なに…？|What.. is that...?
  
-## 0021.png
+## 0021.jpg
+![0021.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0021.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
 |ゴゴゴ|(sfx: menacing)
  
-## 0022.png
+## 0022.jpg
+![0022.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0022.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -344,7 +367,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |え？|Huh?
  
-## 0023.png
+## 0023.jpg
+![0023.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0023.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -365,7 +389,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |じゃあ、|Well...
 
-## 0024.png
+## 0024.jpg
+![0024.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0024.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -385,7 +410,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |こりゃ、会社行ってる場合じゃないよ。|This doesn't look like the time to be going to work right?
 |この町　にげたほうがいいんじゃない？|Should we be getting out of town?
  
-## 0025.png
+## 0025.jpg
+![0025.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0025.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -403,7 +429,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ギリッ|(sfx: twisting)
  
-## 0026.png
+## 0026.jpg
+![0026.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0026.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -422,7 +449,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |人間界はこの３０年は平穏だったのにな…。|Even though the human world has known peace for 30 years...
 |妖魔界の失態であれば手助けするが、 ヤツに狙われるのは人間界の宿命|If it were a problem facing Youmakai, we could do something about it, but it seems to be destiny for the human world to be targeted by that thing.
  
-## 0027.png
+## 0027.jpg
+![0027.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0027.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -445,7 +473,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ヤツが復活した場合、人間が対抗できる手段だ。|When that thing revives once more, humans will have a means of defeating it.
 |すでに手はずは整っております。|We've already prepared for this arrangement.
  
-## 0028.png
+## 0028.jpg
+![0028.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0028.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -463,7 +492,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |お…|O....
  
-## 0029.png
+## 0029.jpg
+![0029.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0029.jpg)
 (TN: An "oni" (鬼)  is a Japanese ogre/demon. A "maro" (麻呂) is a Japanese noble from ancient history who shaved his eyebrows. Akinori is imagining a literal combination of the two)
  
 #### Panel 1
@@ -497,7 +527,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |鬼まろを迎えうつことができるのは、|In order for us to fight the enemy,
 |この国に古来より存在するー、|In this country, there exists ancient beings...
  
-## 0030.png
+## 0030.jpg
+![0030.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0030.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -514,7 +545,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ヤツの力に対抗するのに必要なのはー|In order to fight against *that*, the key thing is...
  
-## 0031.png
+## 0031.jpg
+![0031.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0031.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -543,7 +575,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |また残っているんですか…。|Does it still remain...?
 |いや、|No
  
-## 0032.png
+## 0032.jpg
+![0032.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0032.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -575,7 +608,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |なんで、おばば、そんなこと知ってんの？|Grandma, how do you even know all this?
 |まさか…？|Don't tell me...?
 
-## 0033.png
+## 0033.jpg
+![0033.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0033.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -603,7 +637,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |で、その妖怪ウォッチエルダは今はどこに？|Anyway, were is this Yo-kai Watch Elder right now?
 |すでに、人間界にある。|It is already in the human world.
 
-## 0034.png
+## 0034.jpg
+![0034.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0034.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -630,7 +665,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |どうせ「知らん」っていうと思うでど…。|I think you're just going to say, "I don't know".
  
-## 0035.png
+## 0035.jpg
+![0035.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0035.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -654,7 +690,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |普通、探し物から出てる微弱な電波キャッチするのがレーダーでしょ？|Isn't it normally something that catches the weak radio waves coming from the thing you're looking for?
 |逆にそのレーダー作れるなら、妖怪ウォッチ作れんじゃない？|If you could make this radar, couldn't you have just made a Yo-kai Watch instead?
  
-## 0036.png
+## 0036.jpg
+![0036.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0036.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -674,7 +711,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |小さい頃から変な修業いっぱいしてきた。それがこのときのためだとしたら…、|Ever since I was little, I've been doing this weird training. If all that was for this moment...
  
-## 0037.png
+## 0037.jpg
+![0037.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0037.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -698,7 +736,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |人間はアレをただの「流れ星」とでも思ってるニャンか？|Humans think that thing is just a "meteor" -nyan?
 |おっ♪|Oh♪
 
-## 0038.png
+## 0038.jpg
+![0038.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0038.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -714,13 +753,15 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |キミ、あぶない‼︎|You, that's dangerous!!
 |車来てるぞ、にげろーー‼︎|A car is coming, run away!!
  
-## 0039.png
+## 0039.jpg
+![0039.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0039.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
 |あああ‼︎|Aahh!!
  
-## 0040.png
+## 0040.jpg
+![0040.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0040.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -752,7 +793,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |奇跡…？|Miracle...?
 |今の人間は知らないのか？|Don't humans know anymore?
-## 0041.png
+## 0041.jpg
+![0041.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0041.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -765,7 +807,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |まぁいい。|Whatever.
 |そんな人間このピンチをどう切り抜けるか楽しみだな…。|I'm going to enjoy seeing how these humans will avoid *THIS* predicament.
 
-## 0042.png
+## 0042.jpg
+![0042.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0042.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -798,7 +841,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ういす？|Whis?
 |何ですか？大声出しますよ。|What is it? If you try something, I'll scream.
 |ほぅー、|Oh ho,
-## 0043.png
+## 0043.jpg
+![0043.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0043.jpg)
 #### Panel1
 |JP|EN|
 |---|---|
@@ -829,7 +873,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ほほう。ワタクシがさわってもにげない。ますますいいですね♪アナタはよっぽど気が強いか、|I see. You're not running away even after I've touched you. We're making progress♪ You've gained much strength of will,
 |*コレ*に出会う運命の人間です。|You are a human who is destined to meet THIS.
 |な、なに、コレ…。|W-What is this...?
-## 0044.png
+## 0044.jpg
+![0044.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0044.jpg)
 #### Panel1
 |JP|EN|
 |---|---|
@@ -844,7 +889,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ピッピッ|(sfx: ping ping)
 |ん？|Huh?
-## 0045.png
+## 0045.jpg
+![0045.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0045.jpg)
 #### Panel1
 |JP|EN|
 |---|---|
@@ -856,7 +902,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |見つけた。|I've found it.
  
-## 0046.png
+## 0046.jpg
+![0046.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0046.jpg)
 |JP|EN|
 |---|---|
 |本当に不気味ね、”アレ”…。なんなのかしら…。|"That" thing is really weird, whatever "that" is...
@@ -876,7 +923,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |コソコソ|(sfx: sneak sneak)
 |あ、よかった。人いた|Oh good. There's someone here.
 
-## 047.png
+## 047.jpg
+![047.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/047.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -886,7 +934,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ズズ|(SFX:zuzu)(phasing in)
  
-## 0048.png
+## 0048.jpg
+![0048.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0048.jpg)
 |JP|EN|
 |---|---|
 |う…。|uu....
@@ -905,7 +954,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |おばば、鬼麿って、なんなの？|Grandma... What in the world is this Onimaro?
  
-## 0049.png
+## 0049.jpg
+![0049.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0049.jpg)
 |JP|EN|
 |---|---|
 |鬼まろは、人間の”悪意”に感染していく「ウィルス妖怪」|The Onimaro are a "Virus Yo-kai" that infect the "malice" of humanity.
@@ -939,7 +989,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ん？|Huh?
  
-## 0050.png
+## 0050.jpg
+![0050.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0050.jpg)
 |JP|EN|
 |---|---|
 |えーーー⁉︎|Wha--!?
@@ -959,7 +1010,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |あ…、あの、妖怪ウォッチ持ってます？|Umm... Do you happen to have a Yo-kai Watch?
  
-## 0051.png
+## 0051.jpg
+![0051.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0051.jpg)
 |JP|EN|
 |---|---|
 |ぐるるー‼︎|GURURUー!!
@@ -971,12 +1023,14 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ススー|su su- (sfx: tracing)
 |ふん‼︎|humph!!
  
-## 0052.png
+## 0052.jpg
+![0052.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0052.jpg)
 |JP|EN|
 |---|---|
 |ドン|DON! (sfx: pounding noise)
 |へへ♪|Heh heh♪
-## 0053.png
+## 0053.jpg
+![0053.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0053.jpg)
 |JP|EN|
 |---|---|
 |なんなんだこの化け物…。|What in the world is this monster...?
@@ -1015,7 +1069,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ドドド|DO DO DO (sfx: thud thud thud)
 |あ。|Ah.
  
-## 0054.png
+## 0054.jpg
+![0054.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0054.jpg)
 |JP|EN|
 |---|---|
 |アキノリに妖怪ウォッチレーダーって言ってしもた…。|I went and told Akinori that was the Yo-kai Watch Radar...
@@ -1050,7 +1105,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |よさげ　よさげ♪|Looks good, looks good♪
 |決まりだ、イエーイ♪|It's settled then, YAY♪
  
-## 0055.png
+## 0055.jpg
+![0055.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0055.jpg)
 |JP|EN|
 |---|---|
 |よー、オマエのこと見てだぜ。|Yo, we've been watching you.
@@ -1077,7 +1133,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |オマエからはいい”闇”のニオイがするんだ♪|I can smell some great "darkness" inside you♪
  
-## 0056.png
+## 0056.jpg
+![0056.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0056.jpg)
 |JP|EN|
 |---|---|
 |スーッ|(sfx: ignore)
@@ -1105,7 +1162,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |契約って？|A contract, you say?
 |お！興味出て来たな‼︎|Oh! Now he's showing interest!!
  
-## 0057.png
+## 0057.jpg
+![0057.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0057.jpg)
 |JP|EN|
 |---|---|
 |オマエの体にオレらを入れる。|You need to put us in your body.
@@ -1140,12 +1198,14 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |あ。|Ah.
  
-## 0058.png
+## 0058.jpg
+![0058.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0058.jpg)
 |JP|EN|
 |---|---|
 |ドッン|(sfx: THUD)
  
-## 0059.png
+## 0059.jpg
+![0059.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0059.jpg)
 #### Panel 1-
 |JP|EN|
 |---|---|
@@ -1184,7 +1244,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |バッ (2 times)|(sfx: jump)
 |ズズ…|(sfx: slip)
  
-## 0060.png
+## 0060.jpg
+![0060.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0060.jpg)
 |JP|EN|
 |---|---|
 |ドン|(sfx: boom) 
@@ -1197,14 +1258,16 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |うぐぐ…。|Ugugu...
  
-## 0061.png
+## 0061.jpg
+![0061.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0061.jpg)
 |JP|EN|
 |---|---|
 |おほ、こりゃスゲェ、思った通り。|Oho, this is awesome, just as I thought.
 |オレらの感染力に耐えたぞ、イェー♪|Looks like you can endure our infectious power, YAY♪
 |自分を維持しつつ、ボクらの力を得たね。|Not only can he stay himself, but he's acquired our powers.
  
-## 0062.png
+## 0062.jpg
+![0062.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0062.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -1224,7 +1287,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ちょっと、ちょっと。|Time out, time out.
 |出てこいやー‼︎　イエー♪|Com on out!! YAY♪
  
-## 0063.png
+## 0063.jpg
+![0063.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0063.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -1245,7 +1309,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |これをこうして、|Ok, this goes like that...
 |ここをとめて、よしー。|And stop there. Ok...
  
-## 0064.png
+## 0064.jpg
+![0064.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0064.jpg)
 |JP|EN|
 |---|---|
 |あ！|Ah!
@@ -1263,7 +1328,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |アイツらで試してみろよ、|Go ahead and test it on them.
 |かざして念じるだけでいい。|Hold it out and keep it in your mind.
  
-## 0065.png
+## 0065.jpg
+![0065.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0065.jpg)
 |JP|EN|
 |---|---|
 |ザッ|(sfx: thud)
@@ -1280,7 +1346,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |へー。|Huh.
  
-## 0066.png
+## 0066.jpg
+![0066.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0066.jpg)
 #### Panel 1-
 |JP|EN|
 |---|---|
@@ -1302,7 +1369,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |妖怪ウォッチに選ばれた少女|The one chosen by the Yo-kai Watch|
 |ナツメ|Natsume
  
-## 0067.png
+## 0067.jpg
+![0067.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0067.jpg)
 |JP|EN|
 |---|---|
 |アンタ、なんなの？|Just what are you?
@@ -1327,7 +1395,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |というわけで、妖怪ウオッチを手にしたアナタにしばらくとりつかせていただきますよ♪|In any case, now that you have the Yo-kai Watch, I will be inspiriting you for a while.♪
  
-## 0068.png
+## 0068.jpg
+![0068.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0068.jpg)
 |JP|EN|
 |---|---|
 |よく見たらアンティークっぽくてカワイイ、これ♪|This kinda looks like a cute antique when you look at it.
@@ -1354,7 +1423,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |その反面、命の危機もつきまといますがね…。|on the other hand, dangerous things will follow as well..
  
-## 0069.png
+## 0069.jpg
+![0069.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0069.jpg)
 |JP|EN|
 |---|---|
 |なんかカギ穴みたいなものある。|Looks like there's a keyhole in here too.
@@ -1385,7 +1455,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |そのカギ入れたら、どうなんの？|What do I do after I put the key in?
 |ではー、|That is...
 
-## 0070.png
+## 0070.jpg
+![0070.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0070.jpg)
 |JP|EN|
 |---|---|
 |最終試験です。|Your final test.
@@ -1408,7 +1479,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ズドド|(sfx: STOMP STOMP)
 |ぐるぐるぐる‼︎|GURURURU!!
  
-## 0071.png
+## 0071.jpg
+![0071.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0071.jpg)
 |JP|EN|
 |---|---|
 |キャアー‼︎ なにー⁈|Kyaa-! What-?!
@@ -1437,7 +1509,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ピーッ|(sfx: ping)
 |ん？今までと色が違う反応‼︎|Huh? Now I'm getting different color reading!!
  
-## 0072.png
+## 0072.jpg
+![0072.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0072.jpg)
 |JP|EN|
 |---|---|
 |今度こそ妖怪ウォッチであってくれよ‼︎|Maybe that one's where the Yo-kai Watch is!!
@@ -1452,7 +1525,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ちょっと聞いて‼︎すごいの見たの‼︎|Wait, you've got to hear this! I saw something nuts!
 |ん⁈|Huh?!
  
-## 0073.png
+## 0073.jpg
+![0073.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0073.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -1471,12 +1545,14 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |うそ…でしょ…？|N-No...Way...?
 |ぐるるー‼︎|GURURU-!!
  
-## 0074.png
+## 0074.jpg
+![0074.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0074.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
 |だいじょうぶ⁉︎|Are you okay!?
-## 0075.png
+## 0075.jpg
+![0075.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0075.jpg)
 |JP|EN|
 |---|---|
 |ぐるる…‼︎|GURURU...!!
@@ -1502,7 +1578,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |よし、この友だち助けられるかも‼︎|Great! I think we can save your friend then!!
  
-## 0076.png
+## 0076.jpg
+![0076.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0076.jpg)
 |JP|EN|
 |---|---|
 |アークを使って妖怪を呼び出すんだ‼︎|Use the Ark and call forth a yo-kai!!
@@ -1528,7 +1605,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |友だちを助けて‼︎|Please save my friend!!
  
-## 0077.png
+## 0077.jpg
+![0077.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0077.jpg)
 |JP|EN|
 |---|---|
 |ジャキン|(sfx: click)
@@ -1542,7 +1620,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ギュルルルル|(sfx: fwoosh)
 |オイ‼︎ なにやってんの|Hey!! What are you doing!?
 
-## 0078.png
+## 0078.jpg
+![0078.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0078.jpg)
 |JP|EN|
 |---|---|
 |なにやってんの！？|What is it doing!?
@@ -1565,7 +1644,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |でるぞ！！|It's coming out!
 
-## 0079.png
+## 0079.jpg
+![0079.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0079.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1601,7 +1681,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ソイツの名前えはー、|His name is...
 
-## 0080.png
+## 0080.jpg
+![0080.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0080.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1631,7 +1712,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |スゲェ…、オレも見るの初めてだ！！|Awesome... This is my first time seeing this too!!
 
-## 0081.png
+## 0081.jpg
+![0081.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0081.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1653,7 +1735,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ほほうー。| Ah hah...
 
-## 0082.png
+## 0082.jpg
+![0082.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0082.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1668,7 +1751,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ウウ…|(sfx:ssssss)
 |サキ！？|Saki!?
 
-## 0083.png
+## 0083.jpg
+![0083.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0083.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1699,7 +1783,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |その妖怪ウォッチをくれた”変な妖怪”が気になるな…。|I'm a little curious about the weird yo-kai that gave you that Yo-kai Watch though.
  
-## 0084.png
+## 0084.jpg
+![0084.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0084.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1724,7 +1809,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ま、今、この地球の危機まで理解しているとは話が早い。|And you should already understand that, in short, the world is in danger.
 |へへ♪|Oh hoh♪
  
-## 0085.png
+## 0085.jpg
+![0085.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0085.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1756,7 +1842,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |フフフ…。ナツメさん、アナタはー、|Natsume... You've...
 
-## 0086.png
+## 0086.jpg
+![0086.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0086.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1790,7 +1877,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |うぐ…、わたしは妖魔界ー、|Ugu.., I'm from Youmakai-
 
-## 0087.png
+## 0087.jpg
+![0087.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0087.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1817,7 +1905,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |これはじょうだんでも、脅しでもありません|This is nether a threat nor a joke.
 
-## 0088.png
+## 0088.jpg
+![0088.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0088.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1841,7 +1930,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |そして、その妖怪と協力できる、唯一の人間がアナタです。|And you are the only one the Yo-kai can ally with.
 
-## 0089.png
+## 0089.jpg
+![0089.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0089.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1877,7 +1967,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |顔が変わりましたね。|Her expression changed.
 |ん？|Huh?
 
-## 0090.png
+## 0090.jpg
+![0090.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0090.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1909,7 +2000,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ポポポポッ|(sfx:beep beep beep beep)
 |ん？|huh?
 
-## 0091.png
+## 0091.jpg
+![0091.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0091.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1940,7 +2032,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |な…、なんだよ、コレ…‼|W-What's this...!?︎
 |ムム‼︎|Grrr!!
 
-## 0092.png
+## 0092.jpg
+![0092.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0092.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1975,7 +2068,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ま、ワシの知識も少なからず役に立つじゃろ。|But I have no small amount of wisdom to be of help to you.
 
-## 0093.png
+## 0093.jpg
+![0093.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0093.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2002,7 +2096,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ああー、|Yes,
 
-## 0094.png
+## 0094.jpg
+![0094.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0094.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2031,7 +2126,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |なにいってるんですか。|What are you talking about?
 
-## 0095.png
+## 0095.jpg
+![0095.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0095.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2066,7 +2162,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ジバニャン‼︎|Jibanyan!!
 |合うのはひさしぶるりですね…。|It's been a while since we've met, hasn't it...
 
-## 0096.png
+## 0096.jpg
+![0096.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0096.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2088,7 +2185,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |助ける義理もないな。|I have no obligation to save anyone.
 |いや、アナタ、義理とかじゃなくてさ、|No, it's not out of obligation,
 
-## 0097.png
+## 0097.jpg
+![0097.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0097.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2108,14 +2206,16 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ぐるる|GURURU
 
 
-## 0098.png
+## 0098.jpg
+![0098.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0098.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
 |だいじょうぶ⁉︎|Are you okay!?
 |ゴメンナサイ‼︎|I'm so sorry!!
 
-## 0099.png
+## 0099.jpg
+![0099.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0099.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2124,13 +2224,15 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ちょっ、まて‼︎|Hold it!!
 |いかん‼︎|No!!
 
-## 0100.png
+## 0100.jpg
+![0100.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0100.jpg)
 #### Final Panel
 |JP|EN|
 |---|---|
 |あ、ありがとう。|T-Thank you.
 
-## 0101.png
+## 0101.jpg
+![0101.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0101.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2147,12 +2249,14 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |なんニャン？|What?
 |いえいえ。|Nothing at all.
 
-## 0102.png
+## 0102.jpg
+![0102.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0102.jpg)
 |JP|EN|
 |---|---|
 |ザッ|(sfx:fwuush)
 
-## 0103.png
+## 0103.jpg
+![0103.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0103.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -2170,7 +2274,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |人間全部にオレたちがとりつくまで続ける♪|Let's continue until we've taken every single human♪
 |最終的にはどうなる？|So what happens afterwards in the end?
 
-## 0104.png
+## 0104.jpg
+![0104.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0104.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2195,7 +2300,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |どうした、トウマ。|What's wrong, Touma?
 
-## 0105.png
+## 0105.jpg
+![0105.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0105.jpg)
 #### Panel 3
 |JP|EN|
 |---|---|
@@ -2218,7 +2324,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |絶対に見つからないようにしないと‼︎|We must definitely not be seen!!
 
-## 0106.png
+## 0106.jpg
+![0106.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0106.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2231,7 +2338,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |せめて裏からでしょう‼︎みんなコッチみてますよ‼︎|You're supposed to sneak behind them!! They're all looking at us!!
 |止まってるとレーダーでどっちが正面かまでわかんないんだもん‼︎|When they're standing still, there's no way to tell which way they're facing from the leader!
 
-## 0107.png
+## 0107.jpg
+![0107.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0107.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -2249,7 +2357,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |なんで…？|Why...?
 
-## 0108.png
+## 0108.jpg
+![0108.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0108.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2275,7 +2384,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ぐるるあ‼︎|GRURUAA!!
 
-## 0109.png
+## 0109.jpg
+![0109.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0109.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -2287,7 +2397,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ちょっとまって‼︎|Hold on!!
 
 
-## 0110.png
+## 0110.jpg
+![0110.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0110.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2319,13 +2430,15 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |それでいこう|Let's go.
 
-## 0112.png
+## 0112.jpg
+![0112.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0112.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
 |人間がジバニャンのパンチを片手で止めた‼︎|That human stopped Jibanyan's punch with one hand!!
 
-## 0113.png
+## 0113.jpg
+![0113.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0113.jpg)
 #### Panel 3
 |JP|EN|
 |---|---|
@@ -2339,7 +2452,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |こりゃ　マズ…、　ん？|This isn't good... huh?
 
-## 0114.png
+## 0114.jpg
+![0114.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0114.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2355,7 +2469,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |いいでしょ、一度に呼べるの一匹ずつなんですから‼︎|But you can only summon one at a time anyway!! 
 |その妖怪の名前はー、|The name of this Yo-kai is,
 
-## 0115.png
+## 0115.jpg
+![0115.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0115.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2368,7 +2483,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |あ、わたし、妖怪ウォッチの新しい持ち主です‼︎|Ah, I'm the Yo-kai Watch's new owner!!
 |そう、アナタが。|I see, so it's you.
 
-## 0116.png
+## 0116.jpg
+![0116.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0116.jpg)
 #### Panel 1 
 |JP|EN|
 |---|---|
@@ -2382,7 +2498,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |スゴイ…。あの人たちを傷つけずに守ってくれた‼︎|Incredible... She protected those people without harming them!!
 
-## 0117.png
+## 0117.jpg
+![0117.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0117.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2409,7 +2526,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ガチーン|(sfx: frozen)
 |スゴイ、みんな凍らせた…。|Awesome, they're all frozen...
 
-## 0118.png
+## 0118.jpg
+![0118.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0118.jpg)
 #### Panel 5
 |JP|EN|
 |---|---|
@@ -2427,7 +2545,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |トウマくんー、|
 |昨日、トウマくんの✖️△□※ー。| Touma, yesterday **********
 
-## 0119.png
+## 0119.jpg
+![0119.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0119.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2456,7 +2575,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |鬼眼ギアは心の闇とのバランスでとりついています。|The Kigan Gear has taken both the darkness in his heart and the balance within.
 |力ずくではずすのは不可能ー。|It's impossible to remove it by force.
 
-## 0120.png
+## 0120.jpg
+![0120.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0120.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2491,7 +2611,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |さっきの母親からのメールのときといい、トウマの心の闇にはまだすき間があったようだな…。|A messages came from his mother just now. Looks like the darkness within Touma's heart has a weak point.
 
-## 0121.png
+## 0121.jpg
+![0121.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0121.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2521,7 +2642,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |キャア‼︎|Kyaaa!!
 |視聴者提供|Submission by witness
 
-## 0122.png
+## 0122.jpg
+![0122.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0122.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2529,7 +2651,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |詳細わかり次第、再度お伝えいたします‼︎|We will report more as soon as details become known.
 |外出はお控えくださいー。|Please refrain from going outdoors.
 
-## 0123.png
+## 0123.jpg
+![0123.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0123.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -2541,7 +2664,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |わっ、穴あいてる‼︎|Woah, a hole opened up.
 |なんだ？　なんだ？|What is it? What is it?
 
-## 0124.png
+## 0124.jpg
+![0124.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0124.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2563,7 +2687,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |集めた人間の闇を奪いに来たか…。|It has come to plunder the darkness within the humans.
 
-## 0125.png
+## 0125.jpg
+![0125.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0125.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2593,7 +2718,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |この少年のこころの闇を作った傷があるはずー。|There must be a wound that the darkness within his heart has created-.
 |その闇の源ー、|That's the origin of his darkness.
 
-## 0126.png
+## 0126.jpg
+![0126.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0126.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2621,7 +2747,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |なんだ…、動きそうだぞ‼︎|What...? They're moving!!
 |バカな！ふぶき姫の力を破れるわけが…‼︎|You're kidding me! They can break through Fubuki-hime's power...!?
 
-## 0127.png
+## 0127.jpg
+![0127.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0127.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2660,7 +2787,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |わかんなくていいから、とにかくガンバレ！！|You don't need to understand, just try your best!!
 |わかった！！がんばる！！|Okay I get it!! I'll try my best!!
 
-## 0128.png
+## 0128.jpg
+![0128.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0128.jpg)
 #### Panel 3
 |JP|EN|
 |---|---|
@@ -2672,7 +2800,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |透けてる！！|I'm transparent!!
 |ーって、ここは…。|T-That means...
 
-## 0129.png
+## 0129.jpg
+![0129.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0129.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -2685,7 +2814,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |こんな暗い部屋で、どうしたんだろう。|What is he doing in this dark room I wonder.
 |わたしのこと、見えない設定かな？|I guess he can't really see me in this situation?
 
-## 0130.png
+## 0130.jpg
+![0130.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0130.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2704,7 +2834,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ご両親が帰ってこないんだ…。どうしたんだろう…。|His parents haven't come back... I wonder why...
 |仕事だよー。|It's because of work.
 
-## 0131.png
+## 0131.jpg
+![0131.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0131.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2731,7 +2862,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ピンポーン|(sfx:ding dong)
 |帰ってきた！！|They're back!!
 
-## 0132.png
+## 0132.jpg
+![0132.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0132.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2765,7 +2897,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |くすくす。|Heh heh.
 
-## 0133.png
+## 0133.jpg
+![0133.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0133.jpg)
 #### Panel 
 |JP|EN|
 |---|---|
@@ -2793,7 +2926,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ピンポーン|(sfx:ding dong)
 |ナツメちゃん、チャイム押しすぎ…。|Natsume, you're ringing it too much...
 
-## 0134.png
+## 0134.jpg
+![0134.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0134.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2829,7 +2963,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |お父さんとお母さんだって、なにか事情ガー。|Maybe your mom and dad also have their reasons for...
 |やめてくれー。|Stop it-.
 
-## 0135.png
+## 0135.jpg
+![0135.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0135.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2852,7 +2987,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |…あぁ。|...Yeah.
 |となりが母だよ。|Next to him is my mom.
 
-## 0136.png
+## 0136.jpg
+![0136.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0136.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2880,7 +3016,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |真冬さん、資料チェックお願いします…。|Mrs. Mafuyu, please check over these materials...
 |え、はい。|Huh? Okay.
 
-## 0137.png
+## 0137.jpg
+![0137.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0137.jpg)
 #### Panel 4
 |JP|EN|
 |---|---|
@@ -2908,7 +3045,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |よーし、ガンバローゼ！！|Alright, let's do our best!!
 |オォ！！|Alright!!
 
-## 0138.png
+## 0138.jpg
+![0138.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0138.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -2929,7 +3067,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |今まですまなかったな、|I'm sorry about everything up until now.
 |これからは毎日早く帰ってくるからな！！|We'll come home earlier everyday from now on!!
 
-## 0139.png
+## 0139.jpg
+![0139.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0139.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2949,7 +3088,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |---|---|
 |ボクのことなんて忘れて、もっと楽しそうに仕事してると思ってた…。|I thought they were just fooling around at work just to forget about me.
 
-## 0140.png
+## 0140.jpg
+![0140.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0140.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -2972,7 +3112,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |うまくいったようじゃな。|Seems like it went well.
 |はい！|Yes!
 
-## 0141.png
+## 0141.jpg
+![0141.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0141.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3002,7 +3143,8 @@ See this gist at: https://gist.github.com/noroinohanako/0d7b97185a3cfb704ab7a5f2
 |ぐぐぐ|(sfx:clench)
 |マジか…！！|For real...!?
 
-## 0142.png
+## 0142.jpg
+![0142.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0142.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3028,7 +3170,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |いや、コレはコッチの…あのお方のビンチだぞ‼︎|It isn't. "It" is in big trouble now!!
 |ピンチ　ピンチ|Trouble trouble!!
 
-## 0143.png
+## 0143.jpg
+![0143.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0143.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3057,10 +3200,12 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |その王ってのは、どこにいるんだ？|So where is this king?
 |デカすぎて見えないのか？|You can't even see it, even though it's so huge?
 
-## 0144.png
+## 0144.jpg
+![0144.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0144.jpg)
 ### (this page has no dialog)
 
-## 0146.png
+## 0146.jpg
+![0146.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0146.jpg)
 #### Rightmost Panel, Subpanel 1
 |JP|EN|
 |---|---|
@@ -3091,7 +3236,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |てことは、|In other words,
 
 
-## 0146.png
+## 0146.jpg
+![0146.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0146.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3112,7 +3258,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |でも、アレをどうすりゃいいんだ？|But what are we supposed to do about "It"?
 |心配ないよ。|Don't worry.
 
-## 0147.png
+## 0147.jpg
+![0147.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0147.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3133,7 +3280,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |え？|huh?
 
-## 0148.png
+## 0148.jpg
+![0148.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0148.jpg)
 #### Middle Panel 
 |JP|EN|
 |---|---|
@@ -3144,7 +3292,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |妖怪と妖怪ウォッチを持つ人間ー。|These yo-kai and humans using the yo-kai watch,
 |まずはキサマらから片付ける。|I will deal with these fools first.
 
-## 0149.png
+## 0149.jpg
+![0149.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0149.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3186,7 +3335,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |憑依‼︎|Possession!!
 
-## 0150.png
+## 0150.jpg
+![0150.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0150.jpg)
 #### Top Right Panel 
 |JP|EN|
 |---|---|
@@ -3200,7 +3350,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |自分自身の体に妖怪を召喚する憑依型だ‼︎|He summoned the yo-kai within his own body by posession!!
 
-## 0151.png
+## 0151.jpg
+![0151.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0151.jpg)
 #### Panel 1 (Top Left)
 |JP|EN|
 |---|---|
@@ -3210,13 +3361,16 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |こりゅあ、スゲー…。|This is, incredible-...
 
-## 0152.png
+## 0152.jpg
+![0152.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0152.jpg)
 ### (this page has no dialog)
 
-## 0153.png
+## 0153.jpg
+![0153.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0153.jpg)
 ### (this page has no dialog)
 
-## 0154.png
+## 0154.jpg
+![0154.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0154.jpg)
 #### Right Subpanel 
 |JP|EN|
 |---|---|
@@ -3231,7 +3385,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |あのボスが弱いんじゃねーか？|Wasn't that a little too easy?
 |力がわからないから不気味ですね。|I'm afraid we still don't know it can do.
 
-## 0155.png
+## 0155.jpg
+![0155.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0155.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3252,7 +3407,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |アレに気づかれる前に再び奪い返さねば…。|Before he realizes that fact, I'll reclaim it once more...
 |シュルル|(sfx:shhhhh)
 
-## 0156.png
+## 0156.jpg
+![0156.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0156.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -3274,7 +3430,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |ナツメさん？|Natsume?
 |安全な場所？|Safe place?
 
-## 0157.png
+## 0157.jpg
+![0157.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0157.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3302,7 +3459,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |お願いー、トウマくんを守って……‼︎|Please protect Touma....!
 |ちょっと‼︎|Hold it!!
 
-## 0158.png
+## 0158.jpg
+![0158.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0158.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3326,7 +3484,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |おい、オマエ、どっちの心配してんだよ…。|Hey, who's side are you on...
 |おかしい、イェーイ‼︎|It's weird, YAY!!
 
-## 0159.png
+## 0159.jpg
+![0159.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0159.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3352,7 +3511,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |マ…、マジか…、|S-Seriously...,
 |コ…、コイツは…、|T-This is...,
 
-## 0160.png
+## 0160.jpg
+![0160.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0160.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3371,7 +3531,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |ま、間に合う⁉︎|C-Can I make it!?
 |カチャ|(sfx: crank)
 
-## 0161.png
+## 0161.jpg
+![0161.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0161.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3383,7 +3544,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |いきなりシャドウサイド⁉︎|It's already in shadowside!?
 |まさかホントに見守っていた…⁉︎|Was it watching over her this whole time...!?
 
-## 0162.png
+## 0162.jpg
+![0162.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0162.jpg)
 #### Panel 1, Bottom Leftmost subpanel
 |JP|EN|
 |---|---|
@@ -3395,7 +3557,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |うむ‼︎|A'right!!
 |回復⁉︎　そんなこともできるんですか？　有星家スゲ‼︎|Restoration!? You can guys can do that? The Arinori clan is incredible!!
 
-## 0163.png
+## 0163.jpg
+![0163.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0163.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3405,7 +3568,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |あの子…。|That child...
 
-## 0164.png
+## 0164.jpg
+![0164.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0164.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3427,14 +3591,16 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |だいじょうぶ？トカゲさん？|Are you okay, mister lizard?
 |もうつかまらないでね。|Don't get caught again, okay?
 
-## 0165.png
+## 0165.jpg
+![0165.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0165.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
 |妖怪も人間も、|Both yo-kai and humans,
 |”情”がある限り、つけいるスキがある。|as long as they have "feelings", they can be taken advantage of.
 
-## 0166.png
+## 0166.jpg
+![0166.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0166.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -3456,7 +3622,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |シュルルル|(sfx:shhhhh) 
 
-## 0167.png
+## 0167.jpg
+![0167.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0167.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -3474,7 +3641,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |聞いてよ、昨日さー。|Listen, so yesterday...
 
 
-## 0168.png
+## 0168.jpg
+![0168.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0168.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -3492,7 +3660,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |ジバニャン‼︎|Jibanyan!!
 
-## 0169.png
+## 0169.jpg
+![0169.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0169.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3526,7 +3695,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |やる気出た‼︎|He's motivated now!!
 
-## 0170.png
+## 0170.jpg
+![0170.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0170.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3562,7 +3732,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |いくぞ。|Let's go.
 |ひもじー。|Himojii-.
 
-## 0171.png
+## 0171.jpg
+![0171.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0171.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -3580,7 +3751,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |特大のくらえ‼︎|Eat this extra big one!!
 
-## 0172.png
+## 0172.jpg
+![0172.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0172.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -3600,7 +3772,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |めぐあぁ‼︎|Nggaaaa!!
 |よっしゃ、ちぢんだ、作戦通り‼︎|Yeah, we shrank it just as planned!!
 
-## 0173.png
+## 0173.jpg
+![0173.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0173.jpg)
 #### Panel 3 
 |JP|EN|
 |---|---|
@@ -3622,7 +3795,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |ふふふ…。|Fufufu...
 
-## 0174.png
+## 0174.jpg
+![0174.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0174.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3658,7 +3832,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |憑依、不動明王‼︎|Posession, Fudou Myouou!!
 
-## 0175.png
+## 0175.jpg
+![0175.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0175.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3672,7 +3847,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |見たか、有星家回復術の力‼︎|See the powers of the Arihoshi clan!!
 
-## 0176.png
+## 0176.jpg
+![0176.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0176.jpg)
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -3691,7 +3867,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |今度は身内は痛いところついてきますね…。|Now it's taking the forms of people's loved ones again...
 
-## 0177.png
+## 0177.jpg
+![0177.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0177.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3707,13 +3884,16 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |トウマくん‼︎|Touma!!
 
-## 0178.png
+## 0178.jpg
+![0178.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0178.jpg)
 ### (this page has no dialog)
 
-## 0179.png
+## 0179.jpg
+![0179.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0179.jpg)
 ### (this page has no dialog)
 
-## 0180.png
+## 0180.jpg
+![0180.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0180.jpg)
 #### Middle Right Panel 
 |JP|EN|
 |---|---|
@@ -3724,7 +3904,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |トウマくん…。|Touma...
 
-## 0181.png
+## 0181.jpg
+![0181.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0181.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3751,7 +3932,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |腕６本で強そうだったから…。|Having 6 arms seemed kinda strong...
 |意外と単純‼︎|How simpleminded!!
 
-## 0182.png
+## 0182.jpg
+![0182.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0182.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3778,7 +3960,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |感染した方がたも快復されているという報告を確認しているということです。|They have confirmed that the infected individuals have completely recovered.
 |なおー、|Furthermore,
 
-## 0183.png
+## 0183.jpg
+![0183.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0183.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3804,7 +3987,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |---|---|
 |ソイツは、|Those...
 
-## 0184.png
+## 0184.jpg
+![0184.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0184.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3842,7 +4026,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |アキノリ、帰るか。|Akinori, let's go home.
 |うん、疲れたね。|Yeah, I'm tired.
 
-## 0185.png
+## 0185.jpg
+![0185.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0185.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3871,7 +4056,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |住もう住もう♪こっそりイェーイ♪|Let's live in him♪ Secretly YAY♪
 |全部きこえてるが…。|I heard everything though...
 
-## 0186.png
+## 0186.jpg
+![0186.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0186.jpg)
 #### Panel 6
 |JP|EN|
 |---|---|
@@ -3886,7 +4072,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |ワタクシ、行くとこなくて困ってるんです…。|I require a place to stay...
 |わたしの困ってる人、ほっとけないキャラを悪用しないでくれる…。|Please don't take advantage of me wanting to help people in need...
 
-## 0187.png
+## 0187.jpg
+![0187.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0187.jpg)
 #### Panel 
 |JP|EN|
 |---|---|
@@ -3917,7 +4104,8 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |そうでしたか、どうりで…。|So that's it, no wonder...
 |なに？|What?
 
-## 0188.png
+## 0188.jpg
+![0188.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0188.jpg)
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -3942,16 +4130,11 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |お父さんもいっしょだよ♪|Dad's here too♪
 |あら、そう。|Ah is that so.
 
-## 0189.png
+## 0189.jpg
+![0189.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0189.jpg)
 |JP|EN|
 |---|---|
 |おかえり、ケータくん。|Welcome home, Keita.
 |ただいま、フミちゃん。|I'm home, Fumichan.
 |天野|Amano
 |おわり|The End.
-
-
-NOTE: Changes in this version from previous version of this script vary in order to accommodate fan-localized terminology from other sources. Here are some of the changes:
-悪意　"evil" -> "malice" (in regards to what the Onimaro feed from humans)
-鬼眼ギア　"Demon Eye Gear" -> "Kigan Gear"
-妖魔界 "Yo-kai Netherworld" ->  "Youmakai" 

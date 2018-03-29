@@ -2424,7 +2424,7 @@
 #### Panel 2
 |JP|EN|
 |---|---|
-|おほ♪ スゲー|Wow♪ Awesome-
+|おほ♪ スゲー‼︎|Wow♪ Awesome-!!
 |オレも‼︎|Me too!!
 #### Panel 3
 |JP|EN|

@@ -962,6 +962,7 @@
  
 ## 0049.jpg
 ![0049.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0049.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |鬼まろは、人間の”悪意”に感染していく「ウィルス妖怪」|The Onimaro are a "Virus Yo-kai" that infect the "malice" of humanity.
@@ -997,6 +998,7 @@
  
 ## 0050.jpg
 ![0050.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0050.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |えーーー⁉︎|Wha--!?
@@ -1018,6 +1020,7 @@
  
 ## 0051.jpg
 ![0051.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0051.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |ぐるるー‼︎|GURURUー!!
@@ -1031,12 +1034,16 @@
  
 ## 0052.jpg
 ![0052.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0052.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |ドン|DON! (sfx: pounding noise)
+#### Panel 2
 |へへ♪|Heh heh♪
+
 ## 0053.jpg
 ![0053.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0053.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |なんなんだこの化け物…。|What in the world is this monster...?
@@ -1077,6 +1084,7 @@
  
 ## 0054.jpg
 ![0054.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0054.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |アキノリに妖怪ウォッチレーダーって言ってしもた…。|I went and told Akinori that was the Yo-kai Watch Radar...
@@ -1113,6 +1121,7 @@
  
 ## 0055.jpg
 ![0055.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0055.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |よー、オマエのこと見てだぜ。|Yo, we've been watching you.
@@ -1141,6 +1150,7 @@
  
 ## 0056.jpg
 ![0056.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0056.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |スーッ|(sfx: ignore)

@@ -502,7 +502,6 @@
 ## 0029.jpg
 ![0029.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0029.jpg)
 (TN: An "oni" (鬼)  is a Japanese ogre/demon. A "maro" (麻呂) is a Japanese noble from ancient history who shaved his eyebrows. Akinori is imagining a literal combination of the two)
- 
 #### Panel 1
 |JP|EN|
 |---|---|
@@ -1208,13 +1207,14 @@
  
 ## 0058.jpg
 ![0058.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0058.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |ドッン|(sfx: THUD)
  
 ## 0059.jpg
 ![0059.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0059.jpg)
-#### Panel 1-
+#### Panel 1
 |JP|EN|
 |---|---|
 |うお！スゲーの来たな‼︎|Woah! Something huge came!!
@@ -1254,6 +1254,7 @@
  
 ## 0060.jpg
 ![0060.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0060.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |ドン|(sfx: boom) 
@@ -1268,6 +1269,7 @@
  
 ## 0061.jpg
 ![0061.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0061.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |おほ、こりゃスゲェ、思った通り。|Oho, this is awesome, just as I thought.
@@ -1319,6 +1321,7 @@
  
 ## 0064.jpg
 ![0064.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0064.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |あ！|Ah!
@@ -1338,6 +1341,7 @@
  
 ## 0065.jpg
 ![0065.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0065.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |ザッ|(sfx: thud)
@@ -1379,11 +1383,11 @@
  
 ## 0067.jpg
 ![0067.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0067.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |アンタ、なんなの？|Just what are you?
 |フフフ…。　これは失礼。自己紹介が遅れました。|Fufufu... please forgive me. Let me introduce myself.
- 
 #### Panel 2
 |JP|EN|
 |---|---|
@@ -1405,6 +1409,7 @@
  
 ## 0068.jpg
 ![0068.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0068.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |よく見たらアンティークっぽくてカワイイ、これ♪|This kinda looks like a cute antique when you look at it.
@@ -1433,6 +1438,7 @@
  
 ## 0069.jpg
 ![0069.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0069.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |なんかカギ穴みたいなものある。|Looks like there's a keyhole in here too.
@@ -1465,6 +1471,7 @@
 
 ## 0070.jpg
 ![0070.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0070.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |最終試験です。|Your final test.
@@ -1489,6 +1496,7 @@
  
 ## 0071.jpg
 ![0071.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0071.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |キャアー‼︎ なにー⁈|Kyaa-! What-?!
@@ -1519,6 +1527,7 @@
  
 ## 0072.jpg
 ![0072.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0072.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |今度こそ妖怪ウォッチであってくれよ‼︎|Maybe that one's where the Yo-kai Watch is!!
@@ -1588,6 +1597,7 @@
  
 ## 0076.jpg
 ![0076.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0076.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |アークを使って妖怪を呼び出すんだ‼︎|Use the Ark and call forth a yo-kai!!
@@ -1615,6 +1625,7 @@
  
 ## 0077.jpg
 ![0077.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0077.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |ジャキン|(sfx: click)
@@ -1630,6 +1641,7 @@
 
 ## 0078.jpg
 ![0078.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq/0078.jpg)
+#### Panel 1
 |JP|EN|
 |---|---|
 |なにやってんの！？|What is it doing!?

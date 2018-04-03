@@ -449,6 +449,7 @@
 |---|---|
 |ヤツとは…、まさか…。|That thing... Don't tell me...
 |妖魔界がこんなときに…。|For that to come here, with the Youmakai like this, of all times.
+|こんなときだから、気づくのが遅れたか…。|It's only during these times, that we would notice too late...
  
 #### Panel 3
 |JP|EN|

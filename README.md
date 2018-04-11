@@ -3767,6 +3767,7 @@ T/N: Fuujyukyou's literal kanji name is Seal Orb Mirror
 |JP|EN|
 |---|---|
 |いくぞ。|Let's go.
+|OK|OK
 |ひもじー。|Himojii-.
 
 ## 0171.jpg

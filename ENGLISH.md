@@ -1,5 +1,3 @@
-## 0.jpg
-![0.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/0.jpg)
 ## 1.jpg
 ![1.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/1.jpg)
 ## 2.jpg
@@ -380,23 +378,3 @@
 ![189.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/189.jpg)
 ## 190.jpg
 ![190.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/190.jpg)
-## 191.jpg
-![191.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/191.jpg)
-## 192.jpg
-![192.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/192.jpg)
-## 193.jpg
-![193.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/193.jpg)
-## 194.jpg
-![194.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/194.jpg)
-## 195.jpg
-![195.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/195.jpg)
-## 196.jpg
-![196.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/196.jpg)
-## 197.jpg
-![197.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/197.jpg)
-## 198.jpg
-![198.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/198.jpg)
-## 199.jpg
-![199.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/199.jpg)
-## 200.jpg
-![200.jpg](https://raw.githubusercontent.com/noroinohanako/yw_shadow_side_revival_manga/master/lq_jpg/200.jpg)
